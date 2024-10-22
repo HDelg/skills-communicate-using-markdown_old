@@ -8,8 +8,15 @@
 -->
 
 # Communicate using Markdown
+# This is also a Header 1
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+
+## Header level 2
+Content 2
+
+### Header level 3
+Content 3
 
 </header>
 
@@ -64,6 +71,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+Added examples of headers
 
 <footer>
 
